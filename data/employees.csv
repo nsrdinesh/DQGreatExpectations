@@ -1,0 +1,6 @@
+id,name,department,salary
+1,John Doe,Engineering,70000
+2,Jane Smith,Marketing,65000
+3,Bob Johnson,Engineering,75000
+4,Alice Brown,HR,60000
+5,Charlie Davis,,55000

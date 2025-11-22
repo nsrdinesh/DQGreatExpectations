@@ -1,0 +1,5 @@
+great_expectations
+pandas
+sqlalchemy
+psycopg2-binary
+pyarrow
